@@ -1,0 +1,9 @@
+name: pytorch
+channels:
+  - pytorch
+dependencies:
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+    - jupyterlab
